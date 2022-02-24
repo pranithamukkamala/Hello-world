@@ -10,7 +10,7 @@ public virtual class Base1
     }
     public void display()
     {
-        System.debug('display Base1');
+        System.debug('display Base1....');
     }
 
 }
